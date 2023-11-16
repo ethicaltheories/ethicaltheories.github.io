@@ -12,4 +12,47 @@ Moreover, we manually incorporated the journals DATA BASE for Advances in Inform
 
 In parallel, we applied a similar approach to conference proceedings. By cross-referencing the compilations by Walstrom and Hardgrave (2001) and Levy and Ellis (2006), we included those proceedings that were recognized by both sources.
 
- 
+
+
+ | Journal Title | "Basket of 11" | VHB JOURQUAL 3 | FT50 List | Levy & Allis 2006 | Walstrom & Hardgrave Pure IS > 0.8 | Walstrom & Hardgrave Hybrid > 0.6 |
+|---------------|----------------|----------------|-----------|-------------------|------------------------------------|-----------------------------------|
+| Information Systems Research (ISR) | True | A+ | True | True | True |  |
+| Management Information Systems Quarterly (MISQ) | True | A+ | True | True | True |  |
+| Journal of Management Information Systems | True | A | True | True | True |  |
+| Journal of the Association for Information Systems (JAIS) | True | A |  |  |  |  |
+| Journal of Information Technology | True | A |  |  |  |  |
+| Information Systems Journal (ISJ) | True | A |  |  |  |  |
+| The Journal of Strategic Information Systems | True | A |  |  | True |  |
+| European Journal of Information Systems (EJIS) | True | A |  | True | True |  |
+| Decision Support Systems (DSS) | True | B |  |  |  |  |
+| Information & Management | True | B |  | True | True |  |
+| Information and Organization | True | B |  |  |  |  |
+| Mathematical Programming |  | A |  |  |  |  |
+| INFORMS Journal on Computing (JOC) |  | A |  |  |  | True |
+| SIAM Journal on Computing |  | A |  |  |  |  |
+| Journal of the ACM (JACM) |  | B |  |  |  |  |
+| Decision Sciences |  | B |  | True |  |  |
+| Computers and Operations Research |  | B |  |  |  |  |
+| IEEE Transactions on Engineering Management |  | B |  | True |  |  |
+| Business & Information Systems Engineering (BISE) (früher: Wirtschaftsinformatik WI) |  | B |  |  |  |  |
+| ACM Transactions on Information Systems |  | B |  | True | True |  |
+| International Journal of Electronic Commerce (IJEC) |  | B |  |  |  |  |
+| ACM Transactions on Management Information Systems |  | B |  | True |  |  |
+| ACM Computing Surveys |  | B |  |  |  |  |
+| Journal of Computational Finance |  | B |  |  |  |  |
+| Artificial Intelligence |  | B |  | True |  |  |
+| Group Decision and Negotiation |  | B |  |  |  |  |
+| ACM SIGMIS Database |  | B |  |  |  |  |
+| IEEE Transactions on Software Engineering |  | B |  | True |  | True |
+| Data & Knowledge Engineering |  | B |  |  |  |  |
+| Communications of the ACM (CACM) |  | B |  | True |  | True |
+| Information Systems (IS) |  | B |  |  | True |  |
+| MIS Quarterly Executive |  | B |  |  |  |  |
+| Journal of Decision Systems |  | B |  |  |  |  |
+| Information Systems Frontiers |  | B |  |  |  |  |
+| Electronic Markets (em) |  | B |  |  |  |  |
+| ACM Transactions on Computer-Human Interaction |  | B |  | True |  |  |
+| Human-Computer Interaction |  | C |  |  |  | True |
+| Communications of the Association for Information Systems (CAIS) |  | C |  | True |  |  |
+| DATA BASE for Advances in Information Systems |  |  |  |  | True |  |
+

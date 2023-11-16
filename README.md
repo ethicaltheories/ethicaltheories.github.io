@@ -13,6 +13,8 @@ Moreover, we manually incorporated the journals DATA BASE for Advances in Inform
 In parallel, we applied a similar approach to conference proceedings. By cross-referencing the compilations by Walstrom and Hardgrave (2001) and Levy and Ellis (2006), we included those proceedings that were recognized by both sources.
 
 
+### Included Journals
+
 
  | Journal Title | "Basket of 11" | VHB JOURQUAL 3 | FT50 List | Levy & Allis 2006 | Walstrom & Hardgrave Pure IS > 0.8 | Walstrom & Hardgrave Hybrid > 0.6 |
 |---------------|----------------|----------------|-----------|-------------------|------------------------------------|-----------------------------------|

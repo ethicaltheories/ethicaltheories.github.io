@@ -1,4 +1,4 @@
-# ethicaltheories.github.io
+# Ranking of Information Systems (IS) Litature - Which Are the Top IS Outlets?
 
 In pursuit of a detailed overview of IS literature related to ethical theories and AI, we have adopted the following systematic approach to compile a comprehensive list.
 
@@ -57,4 +57,15 @@ In parallel, we applied a similar approach to conference proceedings. By cross-r
 | Human-Computer Interaction |  | C |  |  |  | True |
 | Communications of the Association for Information Systems (CAIS) |  | C |  | True |  |  |
 | DATA BASE for Advances in Information Systems |  |  |  |  | True |  |
+
+
+### Included Conference Proceedings
+
+| Conference Proceedings Title | VHB JOURQUAL 3 | Walstrom & Hardgrave | Levy & Allis 2006 | Include |
+|-------------------|----------------|----------------------|-------------------|---------|
+| Proceedings of the International Conference on Information Systems (ICIS) | A | True | True | True |
+| Proceedings of the European Conference on Information Systems (ECIS) | B |  |  | True |
+| Proceedings of the Hawaii International Conference on System Sciences (HICSS) | C | True | True | True |
+| Proceedings of the Pacific Asia Conference on Information Systems (PACIS) | C |  |  | True |
+| Proceedings of the Americas Conference on Information Systems (AMCIS) | D | True | True | True |
 
